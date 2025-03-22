@@ -23,7 +23,7 @@ python app.py
 Send a  request to  with:
 ```json
 {
-    "message": "Win a free iPhone now!"
+    curl -X POST http://YOUR.IP.ADDRESS.HERE:8000/predict -H "Content-Type: application/json" -d "{\"message\": \"There you have it folx. The numbers don't lie. Americans are mostly...\"}"
 }
 ```
 Response:
