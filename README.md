@@ -5,8 +5,8 @@ A simple **Spam Classifier** using **Naive Bayes & TF-IDF**, built with Python &
 ## 🚀 Setup & Run
 ```sh
 # Clone the repo
-git clone https://github.com/Akbar-0/spam-classifier.git
-cd spam-classifier
+git clone https://github.com/Akbar-0/spam-classifiction.git
+cd spam-classifiction
 
 # Create & Activate Virtual Environment
 python -m venv venv
